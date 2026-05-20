@@ -6,7 +6,7 @@ updates:
     schedule:
       interval: daily
     cooldown:
-      default-days: 15
+      default-days: 21
     groups:
       github-actions:
         patterns: ["*"]
